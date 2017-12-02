@@ -1,0 +1,4 @@
+User(id, name_user, address, email, hp, password)
+Category(id, name_category)
+Product(id, name_product, description, image_url, category_id)
+Comment(id, product_id, user_id, message)
